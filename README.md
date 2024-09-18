@@ -13,11 +13,11 @@
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beratahmetaj&layout=compact&langs_count=6&hide=javascript,css,html,SCSS&count_private=true&hide_border=true&role=owner,collaborator&theme=dracula" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=beratahmetaj&layout=compact&langs_count=6&hide=javascript,css,html,SCSS&count_private=true&hide_border=true&role=owner,collaborator&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beratahmetaj&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&theme=dracula" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beratahmetaj&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&theme=tokyonight" />
   </a>
 </div>
 
