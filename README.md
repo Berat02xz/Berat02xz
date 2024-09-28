@@ -20,7 +20,5 @@
     <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=berat02xz&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&theme=tokyonight" />
   </a>
 </div>
-<!--
-<img src="https://komarev.com/ghpvc/?username=berat02xz&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="berat02xz">
--->
+
 
