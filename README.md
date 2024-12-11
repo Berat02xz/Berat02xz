@@ -2,10 +2,6 @@
 <br/>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Berat02xz&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
-</p>
-
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
