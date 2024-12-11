@@ -1,5 +1,4 @@
 <div align="center"> 
-<p>Currently Reading: Pro C# 10 with .NET 6 - Andrew Troelsen</p>
 <br/>
 </div>
 
