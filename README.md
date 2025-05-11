@@ -2,6 +2,7 @@
 <br/>
 </div>
 
+Ongoing: 2 private repo projects
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
