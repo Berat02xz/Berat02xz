@@ -1,12 +1,12 @@
-<div align="center"> 
-<br/>
-</div>
+<div align="center">
 
-<div align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=berat02xz&layout=compact&langs_count=6&hide=css,html&count_private=true&hide_border=true&role=owner,collaborator&theme=tokyonight" alt="Top languages excluding specific languages" />
+  <h2>📌 Check out my pinned repos</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Berat02xz&theme=tokyonight&row=1&no-frame=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=berat02xz&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&theme=tokyonight" alt="GitHub stats detailed" />
-  </a>
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=beratahmetaj&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+
 </div>
